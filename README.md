@@ -1,2 +1,2 @@
 # gomoku
-Gomoku Game in C++
+Gomoku
